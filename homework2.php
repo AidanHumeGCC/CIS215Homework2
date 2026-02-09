@@ -1,1 +1,10 @@
-# This is your HTML/PHP file. Delete this comment, and then get started according to the instructions!
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8" />
+<title>My page</title>
+</head>
+<body>
+</body>
+</html>
+
